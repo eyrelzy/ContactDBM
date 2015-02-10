@@ -1,0 +1,10 @@
+C:\Users\apple\Documents\Visual Studio 2012\Projects\ContactDBM\ContactDBM\bin\Debug\ContactDBM.exe.config
+C:\Users\apple\Documents\Visual Studio 2012\Projects\ContactDBM\ContactDBM\obj\Debug\ContactDBM.Form1.resources
+C:\Users\apple\Documents\Visual Studio 2012\Projects\ContactDBM\ContactDBM\obj\Debug\ContactDBM.Properties.Resources.resources
+C:\Users\apple\Documents\Visual Studio 2012\Projects\ContactDBM\ContactDBM\obj\Debug\ContactDBM.csproj.GenerateResource.Cache
+C:\Users\apple\Documents\Visual Studio 2012\Projects\ContactDBM\ContactDBM\bin\Debug\ContactDBM.exe
+C:\Users\apple\Documents\Visual Studio 2012\Projects\ContactDBM\ContactDBM\bin\Debug\ContactDBM.pdb
+C:\Users\apple\Documents\Visual Studio 2012\Projects\ContactDBM\ContactDBM\obj\Debug\ContactDBM.exe
+C:\Users\apple\Documents\Visual Studio 2012\Projects\ContactDBM\ContactDBM\obj\Debug\ContactDBM.pdb
+C:\Users\apple\Documents\Visual Studio 2012\Projects\ContactDBM\ContactDBM\obj\Debug\ContactDBM.Form2.resources
+C:\Users\apple\Documents\Visual Studio 2012\Projects\ContactDBM\ContactDBM\obj\Debug\ContactDBM.csprojResolveAssemblyReference.cache
